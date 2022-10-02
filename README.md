@@ -70,3 +70,6 @@ Combination of `cloudfront:setup` and `cloudfront:build:deploy` commands with or
 
 Remove an entire stack configured in `serverless.yml` via CloudFormation.
 
+### Deployed application
+
+link to the application - http://my-first-app-cloudx.s3-website-eu-west-1.amazonaws.com
